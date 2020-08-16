@@ -16,13 +16,13 @@ Japanese, English / Python, Nim, Lua, C++, R, etc.
 - 🎻 Performance Librarian at Seiko String Orchestra
 
 ## Contact
-- Twitter [@orange_aus](twitter.com/orange_aus/)
-- Facebook [Shun Kainuma](facebook.com/kainumampse/)
-- Instagram [@kai_numa_](instagram.com/kai_numa_/)
-- GitHub [@mpses](github.com/mpses/)
-- AtCoder (緑 / Python) [@orangecolor](atcoder.jp/users/orangecolor)
-- Qiita [@orangeat](qiita.com/Orangeat)
-- note [@orange_aus](note.com/orange_aus)
+- Twitter [@orange_aus](https://twitter.com/orange_aus/)
+- Facebook [Shun Kainuma](https://www.facebook.com/kainumampse/)
+- Instagram [@kai_numa_](https://www.instagram.com/kai_numa_/)
+- GitHub [@mpses](https://github.com/mpses/)
+- AtCoder (緑 / Python) [@orangecolor](https://atcoder.jp/users/orangecolor)
+- Qiita [@orangeat](https://qiita.com/Orangeat)
+- note [@orange_aus](https://note.com/orange_aus)
 
 ## Experiences
 - Created a background movie for Air Liquide S.A. Tokyo Innovation Campus Start Ceremony
