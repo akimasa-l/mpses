@@ -26,8 +26,8 @@ Japanese, English / Python, Nim, Lua, C++, R, etc.
 
 ## Experiences
 - Created a background movie for Air Liquide S.A. Tokyo Innovation Campus Start Ceremony
-- Get the First place at Mostal Business Plan Contest
-- Get a good place at Across Business Plan Contest
+- Got the First place at Mostal Business Plan Contest
+- Got a good place at Across Business Plan Contest
 - Mono Coto Innovation 2020
 - LT at Toiya Conference
 - Made a pitch at Google Japan Office as CL of PIT
