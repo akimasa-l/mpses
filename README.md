@@ -12,8 +12,9 @@ Japanese, English / Python, Nim, Lua, C++, R, etc.
 - 🍾 Technology / Design at Tatopioka
 - 🍊 Vice President at Zena
 - 💻 Motion Graphics Designer at Creater Team Fruits & as a Freelance
-- 🎬 Vice President, Chief of Movie Design, a Designer at Seiko Institute of Technology [@M_lol57](twitter.com/M_lol57)
-- 🎻 Performance Librarian at Seiko String Orchestra
+- 🥂 President, Chief Design Officer (co-CDO), Lead Designer at Seiko Gakuin Student Council Technology Department (https://github.com/mpses/SeikoStudentCouncil)
+- 🎬 Former Vice President, Chief of Movie Design, a Designer at Seiko Institute of Technology [@M_lol57](twitter.com/M_lol57)
+- 🎻 Rep. and Performance Librarian at Seiko String Orchestra
 
 ## Contact
 - Twitter [@orange_aus](https://twitter.com/orange_aus/)
@@ -37,3 +38,5 @@ Japanese, English / Python, Nim, Lua, C++, R, etc.
 ## Release
 ### v.1.0.0 (2020/08/16)
 Create README.md
+### v.1.1.0 (2021/07/24)
+Update README.md
