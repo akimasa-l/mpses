@@ -7,13 +7,11 @@
 Japanese, English / Python, Nim, Lua, C++, R, etc.  
 
 ## Working on
-- 💐 On Inc. as an Intern
+- 💐 President, Chief Design Officer (co-CDO), Lead Designer at Seiko Gakuin Student Council Technology Department (https://github.com/SeikoStudentCouncil)
 - 📄 VP of Public Relations at NPO YFAF
 - 🍾 Technology / Design at Tatopioka
 - 🍊 Vice President at Zena
 - 💻 Motion Graphics Designer at Creater Team Fruits & as a Freelance
-- 🥂 President, Chief Design Officer (co-CDO), Lead Designer at Seiko Gakuin Student Council Technology Department (https://github.com/mpses/SeikoStudentCouncil)
-- 🎬 Former Vice President, Chief of Movie Design, a Designer at Seiko Institute of Technology [@M_lol57](twitter.com/M_lol57)
 - 🎻 Rep. and Performance Librarian at Seiko String Orchestra
 
 ## Contact
