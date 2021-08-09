@@ -2,12 +2,12 @@
 
 ![](https://img.shields.io/badge/age-16-ff7964.svg?style=for-the-badge)
 
-**Shun Kainuma**, 16 years old. (B: 2004/08/05)  
+**Shun Kainuma**, 17 years old. (B: 2004/08/05)  
 **UI/UX Designer, Motion Graphics Designer.**  
 Japanese, English / Python, Nim, Lua, C++, R, etc.  
 
 ## Working on
-- 💐 President, Chief Design Officer (co-CDO), Lead Designer at Seiko Gakuin Student Council Technology Department (https://github.com/SeikoStudentCouncil)
+- 💐 President, Chief Design Officer (co-CDO), Lead Designer at Seiko Gakuin Student Council Technology Department (<https://github.com/SeikoStudentCouncil>)
 - 📄 VP of Public Relations at NPO YFAF
 - 🍾 Technology / Design at Tatopioka
 - 🍊 Vice President at Zena
